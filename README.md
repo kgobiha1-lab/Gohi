@@ -128,7 +128,7 @@ Contributions are welcome!
 
 Name:(k.gobiha)
 Email:(gobihakumar@gmail.com)
-github:(
+github:(https://github.com/Gopiha183/product-catalogue.git)
 
 
 ---
